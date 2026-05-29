@@ -28,8 +28,8 @@
 ## 📈 Mis Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeDeLaFuente&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Benjamín" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeDeLaFuente&theme=tokyonight&hide_border=true" alt="Racha de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bedelafuente&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Estadisticas de Benjamin" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bedelafuente&theme=tokyonight&hide_border=true" alt="Racha de GitHub" width="48%" />
 </div>
 
 ---
